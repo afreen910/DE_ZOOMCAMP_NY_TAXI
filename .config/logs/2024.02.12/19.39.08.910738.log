@@ -1,0 +1,11 @@
+2024-02-12 19:39:08,911 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2024-02-12 19:39:08,916 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'login']
+2024-02-12 19:39:08,919 DEBUG    root            Running [gcloud.auth.login] with arguments: [--cred-file: "/content/my_creds.json"]
+2024-02-12 19:39:08,970 INFO     ___FILE_ONLY___ 
+Authenticated with service account credentials for: [ny-taxi-runner-practice@nytaxi-project-412918.iam.gserviceaccount.com].
+Your current project is [None].  You can change this setting by running:
+  $ gcloud config set project PROJECT_ID
+
+2024-02-12 19:39:08,971 DEBUG    root            Chosen display Format:none
+2024-02-12 19:39:08,971 INFO     root            Display format: "none"
+2024-02-12 19:39:08,972 DEBUG    root            SDK update checks are disabled.
