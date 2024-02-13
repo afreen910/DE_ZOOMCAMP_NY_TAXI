@@ -1,9 +1,0 @@
-[component_manager]
-disable_update_check = true
-
-[compute]
-gce_metadata_read_timeout_sec = 0
-
-[core]
-account = ny-taxi-runner-practice@nytaxi-project-412918.iam.gserviceaccount.com
-
